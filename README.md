@@ -1,2 +1,2 @@
 # responsive-spa-web
-Spa official citee
+Spa official cite
